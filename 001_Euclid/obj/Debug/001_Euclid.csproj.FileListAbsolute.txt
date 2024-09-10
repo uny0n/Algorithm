@@ -1,0 +1,11 @@
+C:\Users\user\Downloads\Algorithm2024-main\Algorithm2024-main\001_Euclid\bin\Debug\001_Euclid.exe.config
+C:\Users\user\Downloads\Algorithm2024-main\Algorithm2024-main\001_Euclid\bin\Debug\001_Euclid.exe
+C:\Users\user\Downloads\Algorithm2024-main\Algorithm2024-main\001_Euclid\bin\Debug\001_Euclid.pdb
+C:\Users\user\Downloads\Algorithm2024-main\Algorithm2024-main\001_Euclid\obj\Debug\001_Euclid.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\Algorithm2024-main\Algorithm2024-main\001_Euclid\obj\Debug\001_Euclid.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Downloads\Algorithm2024-main\Algorithm2024-main\001_Euclid\obj\Debug\_001_Euclid.Form1.resources
+C:\Users\user\Downloads\Algorithm2024-main\Algorithm2024-main\001_Euclid\obj\Debug\_001_Euclid.Properties.Resources.resources
+C:\Users\user\Downloads\Algorithm2024-main\Algorithm2024-main\001_Euclid\obj\Debug\001_Euclid.csproj.GenerateResource.cache
+C:\Users\user\Downloads\Algorithm2024-main\Algorithm2024-main\001_Euclid\obj\Debug\001_Euclid.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\Algorithm2024-main\Algorithm2024-main\001_Euclid\obj\Debug\001_Euclid.exe
+C:\Users\user\Downloads\Algorithm2024-main\Algorithm2024-main\001_Euclid\obj\Debug\001_Euclid.pdb
