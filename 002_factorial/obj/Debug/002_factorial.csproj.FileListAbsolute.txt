@@ -1,0 +1,16 @@
+C:\Users\user\Downloads\Algorithm2024-main\Algorithm2024-main\002_factorial\bin\Debug\002_factorial.exe.config
+C:\Users\user\Downloads\Algorithm2024-main\Algorithm2024-main\002_factorial\bin\Debug\002_factorial.exe
+C:\Users\user\Downloads\Algorithm2024-main\Algorithm2024-main\002_factorial\bin\Debug\002_factorial.pdb
+C:\Users\user\Downloads\Algorithm2024-main\Algorithm2024-main\002_factorial\obj\Debug\002_factorial.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\Algorithm2024-main\Algorithm2024-main\002_factorial\obj\Debug\002_factorial.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Downloads\Algorithm2024-main\Algorithm2024-main\002_factorial\obj\Debug\MainWindow.g.cs
+C:\Users\user\Downloads\Algorithm2024-main\Algorithm2024-main\002_factorial\obj\Debug\App.g.cs
+C:\Users\user\Downloads\Algorithm2024-main\Algorithm2024-main\002_factorial\obj\Debug\002_factorial_MarkupCompile.cache
+C:\Users\user\Downloads\Algorithm2024-main\Algorithm2024-main\002_factorial\obj\Debug\002_factorial_MarkupCompile.lref
+C:\Users\user\Downloads\Algorithm2024-main\Algorithm2024-main\002_factorial\obj\Debug\MainWindow.baml
+C:\Users\user\Downloads\Algorithm2024-main\Algorithm2024-main\002_factorial\obj\Debug\002_factorial.g.resources
+C:\Users\user\Downloads\Algorithm2024-main\Algorithm2024-main\002_factorial\obj\Debug\_002_factorial.Properties.Resources.resources
+C:\Users\user\Downloads\Algorithm2024-main\Algorithm2024-main\002_factorial\obj\Debug\002_factorial.csproj.GenerateResource.cache
+C:\Users\user\Downloads\Algorithm2024-main\Algorithm2024-main\002_factorial\obj\Debug\002_factorial.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\Algorithm2024-main\Algorithm2024-main\002_factorial\obj\Debug\002_factorial.exe
+C:\Users\user\Downloads\Algorithm2024-main\Algorithm2024-main\002_factorial\obj\Debug\002_factorial.pdb
