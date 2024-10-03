@@ -1,0 +1,8 @@
+C:\Users\user\Downloads\Algorithm2024-main (1)\Algorithm2024-main\008_Dijstra\bin\Debug\008_Dijstra.exe.config
+C:\Users\user\Downloads\Algorithm2024-main (1)\Algorithm2024-main\008_Dijstra\bin\Debug\008_Dijstra.exe
+C:\Users\user\Downloads\Algorithm2024-main (1)\Algorithm2024-main\008_Dijstra\bin\Debug\008_Dijstra.pdb
+C:\Users\user\Downloads\Algorithm2024-main (1)\Algorithm2024-main\008_Dijstra\obj\Debug\008_Dijstra.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\Algorithm2024-main (1)\Algorithm2024-main\008_Dijstra\obj\Debug\008_Dijstra.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Downloads\Algorithm2024-main (1)\Algorithm2024-main\008_Dijstra\obj\Debug\008_Dijstra.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\Algorithm2024-main (1)\Algorithm2024-main\008_Dijstra\obj\Debug\008_Dijstra.exe
+C:\Users\user\Downloads\Algorithm2024-main (1)\Algorithm2024-main\008_Dijstra\obj\Debug\008_Dijstra.pdb

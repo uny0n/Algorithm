@@ -1,0 +1,16 @@
+C:\Users\user\Downloads\005_ClosestPair\005_ClosestPair\bin\Debug\005_ClosestPair.exe.config
+C:\Users\user\Downloads\005_ClosestPair\005_ClosestPair\bin\Debug\005_ClosestPair.exe
+C:\Users\user\Downloads\005_ClosestPair\005_ClosestPair\bin\Debug\005_ClosestPair.pdb
+C:\Users\user\Downloads\005_ClosestPair\005_ClosestPair\obj\Debug\005_ClosestPair.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\005_ClosestPair\005_ClosestPair\obj\Debug\005_ClosestPair.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Downloads\005_ClosestPair\005_ClosestPair\obj\Debug\MainWindow.g.cs
+C:\Users\user\Downloads\005_ClosestPair\005_ClosestPair\obj\Debug\App.g.cs
+C:\Users\user\Downloads\005_ClosestPair\005_ClosestPair\obj\Debug\005_ClosestPair_MarkupCompile.cache
+C:\Users\user\Downloads\005_ClosestPair\005_ClosestPair\obj\Debug\005_ClosestPair_MarkupCompile.lref
+C:\Users\user\Downloads\005_ClosestPair\005_ClosestPair\obj\Debug\MainWindow.baml
+C:\Users\user\Downloads\005_ClosestPair\005_ClosestPair\obj\Debug\005_ClosestPair.g.resources
+C:\Users\user\Downloads\005_ClosestPair\005_ClosestPair\obj\Debug\_005_ClosestPair.Properties.Resources.resources
+C:\Users\user\Downloads\005_ClosestPair\005_ClosestPair\obj\Debug\005_ClosestPair.csproj.GenerateResource.cache
+C:\Users\user\Downloads\005_ClosestPair\005_ClosestPair\obj\Debug\005_ClosestPair.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\005_ClosestPair\005_ClosestPair\obj\Debug\005_ClosestPair.exe
+C:\Users\user\Downloads\005_ClosestPair\005_ClosestPair\obj\Debug\005_ClosestPair.pdb
